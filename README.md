@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="console_banner.svg" alt="Engineering console banner" width="100%" />
+
+<br><br>
+
 # Oi, eu sou o Davi 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudando+Django+%2B+React;Aprendendo+na+pr%C3%A1tica+%F0%9F%9A%80)
