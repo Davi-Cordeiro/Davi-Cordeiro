@@ -21,7 +21,7 @@
 <br>
 
 🔨 Construindo projetos com Django e React
-🎯 Meta: dominar o ciclo completo — do backend ao deploy
+🎯 Meta: dominar o ciclo completo do backend ao deploy
 
 <br>
 
