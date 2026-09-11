@@ -20,7 +20,7 @@
 
 <br>
 
-🔨 Construindo projetos com Django e React
+🔨 Construindo projetos com Django
 🎯 Meta: dominar o ciclo completo do backend ao deploy
 
 <br>
