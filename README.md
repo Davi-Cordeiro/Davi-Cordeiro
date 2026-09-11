@@ -14,6 +14,6 @@
 🔨 Construindo projetos com Django e React
 🎯 Meta: dominar o ciclo completo — do backend ao deploy
 
-📫 [seu LinkedIn/e-mail aqui]
+📫 https://www.linkedin.com/in/davi-cordeiro-8297b4319/davicordeiro01012008@gmail.com
 
 </div>
